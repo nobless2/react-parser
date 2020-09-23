@@ -1,0 +1,6 @@
+{
+    "require": {
+        "clue/buzz-react": "^2.9",
+        "symfony/dom-crawler": "^5.1"
+    }
+}
